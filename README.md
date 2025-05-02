@@ -29,5 +29,4 @@ This project is an Android application for **real-time traffic sign detection** 
 
 ---
 
-## 📂 Project Structure
 
