@@ -8,7 +8,7 @@ This project is an Android application for **real-time traffic sign detection** 
 
 - **TensorFlow Lite** – For deploying the trained model on Android.
 - **MobileNetV2** – A fast and optimized CNN architecture for mobile devices.
-- **Android (Java/Kotlin)** – Application development platform.
+- **Android (Java)** – Application development platform.
 - **GTSDB Dataset** – The [German Traffic Sign Detection Benchmark](http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset), used for training and evaluation.
 
 ---
